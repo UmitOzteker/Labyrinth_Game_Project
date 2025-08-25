@@ -1,6 +1,7 @@
 # Labyrinth Game Project 🎮
 
-  ![GitHub Total Commits](https://img.shields.io/github/commit-activity/t/UmitOzteker/Labyrinth_Game_Project) ![GitHub Last Commit](https://img.shields.io/github/last-commit/UmitOzteker/Labyrinth_Game_Project) ![GitHub Issues](https://img.shields.io/github/issues/UmitOzteker/Labyrinth_Game_Project)
+  ![GitHub Total Commits](https://img.shields.io/github/commit-activity/t/UmitOzteker/Labyrinth_Game_Project) ![GitHub Last Commit](https://img.shields.io/github/last-commit/UmitOzteker/Labyrinth_Game_Project) ![GitHub Issues](https://img.shields.io/github/issues/UmitOzteker/Labyrinth_Game_Project) ![GitHub License](https://img.shields.io/github/license/UmitOzteker/Labyrinth_Game_Project)
+
 
 Welcome to the **Labyrinth Game Project**\! This repository hosts a command-line-based labyrinth game meticulously crafted in **Java**. The game challenges players to navigate a procedurally generated maze, find their way through its intricate paths, and locate the exit. This project is a fantastic example for those interested in **game development fundamentals**, **object-oriented programming (OOP)**, and the implementation of **procedural generation algorithms**.
 
