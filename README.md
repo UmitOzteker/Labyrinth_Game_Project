@@ -3,7 +3,7 @@
   ![GitHub Total Commits](https://img.shields.io/github/commit-activity/t/UmitOzteker/Labyrinth_Game_Project) 
   ![GitHub Last Commit](https://img.shields.io/github/last-commit/UmitOzteker/Labyrinth_Game_Project) 
   ![GitHub Issues](https://img.shields.io/github/issues/UmitOzteker/Labyrinth_Game_Project) 
-  ![Code Size](https://img.shields.io/github/languages/code-size/UmitOzteker/C_Projects)
+  ![Code Size](https://img.shields.io/github/languages/code-size/UmitOzteker/Labyrinth_Game_Project)
   ![License](https://img.shields.io/github/license/UmitOzteker/C_Projects)
 
 
